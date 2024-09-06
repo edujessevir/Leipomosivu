@@ -1,0 +1,188 @@
+body{
+ background-color: #ffe4be;
+ height: 100vh;
+}
+
+.header{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 1.75rem;
+    
+}
+
+#leipa{
+    width: 625px;
+    height: 175px;
+    filter: opacity(80%);
+    border: 5px solid #8d5500;
+    box-shadow: 0px 6px 14px 0px rgba(0,0,0,0.7);
+}
+
+#homepage{
+    position: absolute;
+    top: 100px;
+    right: 1000px;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 50%);
+}
+
+#about{
+    position: absolute;
+    top: -25px;
+    right: 800px;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 50%);
+}
+
+#products{
+    position: absolute;
+    top: 100px;
+    right: 650px;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 70%);
+}
+
+a{
+    text-decoration: none !important;
+    color: black;
+    text-shadow: 0px 0px 20px rgba(255, 255, 255, 70%);
+}
+
+/*left side*/
+
+.leftside{
+    text-align: left;
+    color: black;
+    font-family: cursive;
+    font-size: 1.75rem;
+}
+
+#kakku{
+    border-radius: 25px;
+    filter: opacity(80%);
+    width: 400px;
+    height: 200px;
+    box-shadow: 0px 6px 14px 0px rgba(0,0,0,0.7);
+}
+
+#visiting{
+    position: absolute;
+    top: 190px;
+    left: 35px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+#times{
+    position: absolute;
+    top: 250px;
+    left: 35px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.125rem;
+}
+
+/*right side*/
+
+.rightside{
+    text-align: right;
+    color: black;
+    font-family: cursive;
+    font-size: 1.75rem;
+}
+
+#vadelma{
+    border-radius: 25px;
+    filter: opacity(80%);
+    width: 400px;
+    height: 200px;
+    box-shadow: 0px 6px 14px 0px rgba(0,0,0,0.7);
+    position: absolute;
+    top: 230px;
+    right: 10px;
+}
+
+#apply{
+    position: absolute;
+    top: 230px;
+    right: 70px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+#information{
+    position: absolute;
+    top: 280px;
+    right: 85px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+/*bottom*/
+
+.bottomside{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 1.75rem;
+}
+
+#vaalealeipa{
+    border-radius: 25px;
+    filter: opacity(80%);
+    width: 400px;
+    height: 200px;
+    box-shadow: 0px 6px 14px 0px rgba(0,0,0,0.7);
+    position: absolute;
+    bottom: 10px;
+    right: 725px;
+}
+
+#contactus{
+    position: absolute;
+    bottom: 160px;
+    right: 875px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+#contactinfo{
+    position: absolute;
+    bottom: 30px;
+    right: 845px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+/*center*/
+
+.middle{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 1.75rem;
+}
+
+#locations{
+    position: absolute;
+    top: 225px;
+    right: 825px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+#kaupungit{
+    position: absolute;
+    top: 280px;
+    right: 825px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+}
+
+.feedback{
+    color: black;
+    font-family: cursive;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.7);
+    font-size: 1.225rem;
+
+}
